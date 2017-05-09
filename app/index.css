@@ -20,6 +20,11 @@ a{
     margin: 0 auto;
 }
 
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+
 .button {
       color: #e6e6e6;
       background: #0a0a0a;
